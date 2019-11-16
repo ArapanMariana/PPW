@@ -1,6 +1,6 @@
 body{
 	font-size: 0;
-	background: url(../img/333.jpg);
+	background: url(../img/222.jpg);
 	background-attachment: fixed;
 	margin: 0;
 }
@@ -30,7 +30,7 @@ aside{
 
 aside nav.vertical a{
 	display: block;
-	background: red;
+	background: green;
 	width: 100%;
 	margin-top: 3px;
 }
@@ -42,7 +42,7 @@ nav{
 
 nav.menu{
 	width: 100%;
-	background: none;
+	background: yellow;
 	font-size: 0;
 }
 
@@ -53,7 +53,7 @@ nav.menu a{
 	display: inline-block;
 	border-radius: 0px;
 	text-align: center;
-	color: yellow;
+	color: blue;
 	text-decoration: none;
 	background: red;
 }
@@ -74,20 +74,30 @@ section {
 }
 
 article{
-	background: blue;
+	background: green;
 	margin-top: 20px;
 }
 
 footer {
-	background: red;
+	background: pink;
 		height: 100px;
 }
 
 .rounded{
+
 	border-radius: 
 }
 
 section#home{
 	font-size: 16px;
-	background: rgba(255, 255, 255, 0.9);
+	background: yellow;
+
 }
+ section 
+ {       
+ 	background: yellow;
+ 	color: black;
+ 	text-align: center;
+ 	text-decoration: bold;
+
+ }
